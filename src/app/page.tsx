@@ -1,4 +1,4 @@
-import { env } from "cloudflare:workers";
+
 import Image from "next/image";
 
 export default function Home() {
